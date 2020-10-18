@@ -1,0 +1,89 @@
+[
+  {
+    "img": "content/rsz_belle.jpg",
+    "name": "Dr. Severo",
+    "firstName": "Liana",
+    "lastName": "Severo",
+    "gender": "female",
+    "role": "Cardialogist",
+    "address": "795 Folsom Ave, Suite 600 San Francisco, CADGE 94107",
+    "profileLink": "doctor-profile",
+    "social": [
+      {
+        "icon": "icofont-instagram",
+        "link": "#"
+      },
+      {
+        "icon": "icofont-facebook",
+        "link": "#"
+      },
+      {
+        "icon": "icofont-twitter",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "img": "content/rsz_cole.jpg",
+    "name": "Dr. Orlando",
+    "role": "Head Nurse",
+    "address": "795 Folsom Ave, Suite 600 San Francisco, CADGE 94107",
+    "profileLink": "doctor-profile",
+    "social": [
+      {
+        "icon": "icofont-instagram",
+        "link": "#"
+      },
+      {
+        "icon": "icofont-facebook",
+        "link": "#"
+      },
+      {
+        "icon": "icofont-twitter",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "img": "content/matt.png",
+    "name": "Dr. Bautista",
+    "role": "Neurologist",
+    "address": "795 Folsom Ave, Suite 600 San Francisco, CADGE 94107",
+    "profileLink": "doctor-profile",
+    "social": [
+      {
+        "icon": "icofont-instagram",
+        "link": "#"
+      },
+      {
+        "icon": "icofont-facebook",
+        "link": "#"
+      },
+      {
+        "icon": "icofont-twitter",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "img": "content/justin.jpg",
+    "name": "Dr. Bang",
+    "role": "Pediatrician",
+    "address": "795 Folsom Ave, Suite 600 San Francisco, CADGE 94107",
+    "profileLink": "doctor-profile",
+    "social": [
+      {
+        "icon": "icofont-instagram",
+        "link": "#"
+      },
+      {
+        "icon": "icofont-facebook",
+        "link": "#"
+      },
+      {
+        "icon": "icofont-twitter",
+        "link": "#"
+      }
+    ]
+  }
+]
